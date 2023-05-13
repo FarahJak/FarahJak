@@ -77,3 +77,36 @@
 -->
 
 
+## 🛠 Packages I have dealt with:
+- [Astrotomic laravel-translatable](https://docs.astrotomic.info/laravel-translatable/) : This is a Laravel package for translatable models . We can store translations of the models into the database.
+
+- [Intervention Image](https://image.intervention.io/v2) : Intervention Image is a PHP image handling and manipulation library providing an easier and expressive way to create, edit, and compose images. The package includes ServiceProviders and Facades for easy Laravel integration.
+
+- [JWT Authentication](https://www.positronx.io/laravel-jwt-authentication-tutorial-user-login-signup-api/) : JWT is used for Authorization and information exchange between server and client. It authenticates the incoming request and provides an additional security layer to REST API, which is best for security purposes.
+
+- [Spatie Laravel Permission](https://spatie.be/docs/laravel-permission/v5/introduction) : This package allows you to manage user permissions and roles in a database.
+
+- [Mcamara laravel Localization](https://github.com/mcamara/laravel-localization) : Easy i18n localization for Laravel, an useful tool to combine with Laravel localization classes.
+
+- [PayTabs Laravel Package](https://support.paytabs.com/en/support/solutions/articles/60000710700-laravel-package) : PayTabs backend packages make integrating with the PayTabs payment gateway very easy by providing ready-made classes that handle the payment process.
+
+- [Laravel Socialite](https://laravel.com/docs/8.x/socialite#introduction) : A simple, convenient way to authenticate with OAuth providers. Socialite currently supports authentication with Facebook, Twitter, LinkedIn, Google, GitHub, GitLab, and Bitbucket.
+
+- [Laravel Breeze](https://laravel.com/docs/8.x/starter-kits#laravel-breeze) : Laravel Breeze is a minimal, simple implementation of all of Laravel's authentication features, including login, registration, password reset, email verification, and password confirmation.
+
+- [Laravel Sanctum](https://laravel.com/docs/8.x/sanctum) : Laravel Sanctum provides a featherweight authentication system for SPAs (single page applications), mobile applications, and simple, token based APIs.
+
+- [Laravel Excel](https://docs.laravel-excel.com/3.1/getting-started/) : Supercharged Excel exports and imports in Laravel.
+
+- [DOMPDF Laravel](https://github.com/barryvdh/laravel-dompdf) : Export Laravel views to a PDF.
+
+- [Simple QrCode](https://www.simplesoftware.io/#/docs/simple-qrcode) : Is a QR code generator made for Laravel.
+
+- [Laravel chartjs](https://github.com/fxcosta/laravel-chartjs) : Simple package to facilitate and automate the use of charts in Laravel 5.x using Chartjs v2 library.
+
+
+
+
+
+
+
