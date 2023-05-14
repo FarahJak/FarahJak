@@ -28,13 +28,18 @@
 
 ### 💻 Technical Skills : 
 
-<!-- ![Php](https://img.shields.io/badge/-Php-%385490?style=flat-square&logo=Php&logoColor=ffffff) -->
+- ![Php](https://img.shields.io/badge/-Php-385490?style=flat-square&logo=Php&logoColor=ffffff)
+  ![Laravel](https://img.shields.io/badge/-Laravel-%23E44D27?style=flat-square&logo=Laravel&logoColor=ffffff)
+  ![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=flat-square&logo=MySQL&logoColor=00758F)
+
+
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 
