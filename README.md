@@ -118,7 +118,7 @@
 
 - [Laravel chartjs](https://github.com/fxcosta/laravel-chartjs) : Simple package to facilitate and automate the use of charts in Laravel 5.x using Chartjs v2 library.
 
-
+- [Laravolt-avatar](https://github.com/laravolt/avatar) : This package originally built for Laravel, It Displays unique avatar for any user based on their (initials) name.
 
 
 
