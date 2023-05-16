@@ -31,6 +31,7 @@
 - ![Php](https://img.shields.io/badge/-Php-385490?style=flat-square&logo=Php&logoColor=ffffff)
   ![Laravel](https://img.shields.io/badge/-Laravel-%23E44D27?style=flat-square&logo=Laravel&logoColor=ffffff)
   ![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=flat-square&logo=MySQL&logoColor=00758F)
+  ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-ffffff?style=flat-square&logo=phpMyAdmin&logoColor=F89C0E)
 
 
 - ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
