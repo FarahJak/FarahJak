@@ -22,7 +22,7 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/farahjakmery)
 [![Gmail](https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:farah97jak@gmail.com)](mailto:farah97jak@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/FarahJakmery)
-[![Whatsapp](https://img.shields.io/badge/Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://whatsapptools.app/?n=963985272996)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.me/+963985272996)
 
 
 
